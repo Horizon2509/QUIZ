@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
-                  'Belanja berdasarkan kategori',
+                  'Belanja',
                   style: TextStyle(
                     fontSize: 20.0,
                     fontWeight: FontWeight.bold,
